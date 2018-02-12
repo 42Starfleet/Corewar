@@ -1,10 +1,9 @@
 # Corewar
 
 Rules:
-1. All exported functions need to be placed in their own file name, with helper functions within them being declared as static. Ex. https://github.com/linhvoyo/bistromatic/tree/master/bistromatic/srcs
-2. For every function you create, comment: what is being returned, what parameters are taken, and what the function does.
-3. Include in your README what your program does and your implementation methods (algorithm, data structures, ect). 
-4. Norminette, refactor, and make your code readable before submitting a pull request. Ensure that you have a consistent naming scheme. 
+1. For every function you create, comment: what is being returned, what parameters are taken, and what the function does.
+2. Include in your README what your program does and your implementation methods (algorithm, data structures, ect). 
+3. Norminette, refactor, and make your code readable before submitting a pull request. Ensure that you have a consistent naming scheme. 
 
 Tutorial:
 1. Fork the repository
